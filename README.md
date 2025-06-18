@@ -1,3 +1,12 @@
+<div style="
+  width: 500px; 
+  height: 320px; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  transform: rotate(360deg); /* လိုချင်တဲ့ degree ကို ထားပါ */
+  border: 1px solid #ccc; /* optional, အပေါ်က div ကိုမြင်ရန် */
+">
 <p>
   <img 
     align="left" 
@@ -26,6 +35,7 @@
     "
   />
 </p>
+</div>
 
 
 <!--
