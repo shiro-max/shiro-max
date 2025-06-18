@@ -1,6 +1,5 @@
 
-<p><img align="left" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif![image](https://github.com/user-attachments/assets/441ababb-b6e2-480c-9fc8-a71b406ee123)
-" width="500" height="320" /></p>
+<p><img align="left" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="500" height="320" /></p>
 
 <!--
 **shiro-max/shiro-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
