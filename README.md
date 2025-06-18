@@ -4,13 +4,13 @@
   display: flex; 
   justify-content: center; 
   align-items: center; 
-  transform: rotate(360deg); /* လိုချင်တဲ့ degree ကို ထားပါ */
-  border: 1px solid #ccc; /* optional, အပေါ်က div ကိုမြင်ရန် */
+  transform: rotate(360deg); 
+  border: 1px solid #ccc; 
 ">
 <p>
   <img 
     align="left" 
-    src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" 
+    src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" 
     width="500" 
     height="320"  
     style="
