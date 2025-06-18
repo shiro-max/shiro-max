@@ -15,7 +15,7 @@
     height="500"  
     style="
       transform: rotate(360deg); /* 1 full rotation */
-      object-fit: fit; 
+      object-fit: cover; 
       display: block; /* inline-block or block recommended for object-fit */
       border-radius: 0; /* if you want to reset border radius */
     "
