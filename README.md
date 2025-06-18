@@ -1,5 +1,6 @@
 
-<p><img align="left" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="500" height="320" /></p>
+<p><img align="left" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif![image](https://github.com/user-attachments/assets/441ababb-b6e2-480c-9fc8-a71b406ee123)
+" width="500" height="320" /></p>
 
 <!--
 **shiro-max/shiro-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
